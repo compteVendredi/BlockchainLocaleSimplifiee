@@ -1,6 +1,6 @@
-# BCB
+# BlockchainLocale
 
-BonoboCentralBank
+Projet de simulation de création monétaire et d'échange dans une éocnomie de marché d'une crypto-monnaie gérer par des blockchains simplifiés, fonctionnant dans un réseau local.
 
 -------------------------------------------------------------
 
