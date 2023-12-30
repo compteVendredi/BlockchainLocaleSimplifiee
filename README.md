@@ -1,6 +1,6 @@
 # BlockchainLocaleSimplifiee
 
-Projet de simulation de création monétaire et d'échange dans une éocnomie de marché d'une crypto-monnaie gérer par des blockchains simplifiés, fonctionnant dans un réseau local.
+Projet de simulation de création monétaire et d'échange dans une économie de marché d'une crypto-monnaie gérer par des blockchains simplifiés, fonctionnant dans un réseau local.
 
 -------------------------------------------------------------
 
